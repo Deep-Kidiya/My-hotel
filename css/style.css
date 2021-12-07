@@ -1,4 +1,10 @@
+
 .featurette-heading {
-    font-size: 4em;
+  font-size: 4em;
+  padding-top: 8%;
+}
+
+header {
     padding-top: 8%;
+    font-size: 2em;
 }
